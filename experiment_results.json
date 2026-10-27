@@ -1,0 +1,28 @@
+{
+  "best_model": {
+    "name": "Stacking_seed123",
+    "roc_auc": 0.8511029411764706,
+    "accuracy": 0.615,
+    "precision": 0.6883116883116883,
+    "recall": 0.7851851851851852,
+    "f1": 0.7335640138408305
+  },
+  "all_experiments": {
+    "SVC_seed42": 0.79382889200561,
+    "HistGradientBoosting_seed42": 0.7676484338475924,
+    "RandomForest_seed42": 0.7826086956521738,
+    "Stacking_seed42": 0.7888031790556335,
+    "SVC_seed123": 0.8481158088235293,
+    "HistGradientBoosting_seed123": 0.8377757352941175,
+    "RandomForest_seed123": 0.840533088235294,
+    "Stacking_seed123": 0.8511029411764706,
+    "SVC_seed456": 0.7583713850837138,
+    "HistGradientBoosting_seed456": 0.743658041603247,
+    "RandomForest_seed456": 0.7714358193810249,
+    "Stacking_seed456": 0.7647133434804668,
+    "SVC_seed789": 0.7672934472934474,
+    "HistGradientBoosting_seed789": 0.7906552706552706,
+    "RandomForest_seed789": 0.7725356125356125,
+    "Stacking_seed789": 0.7807407407407408
+  }
+}
